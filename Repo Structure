@@ -1,0 +1,21 @@
+larp-dip-reinject-bot/
+  README.md
+  package.json
+  .env.example
+  src/
+    index.ts
+    config.ts
+    price/
+      dexscreener.ts
+      types.ts
+    dip/
+      dipDetector.ts
+    treasury/
+      ledger.ts
+      reinjector.ts
+    ai/
+      narrator.ts
+    notify/
+      discord.ts
+  scripts/
+    devFees_simulator.ts
