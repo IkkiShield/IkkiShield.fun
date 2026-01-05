@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ikkishield.jpeg" width="420" />
+</p>
+
 # IkkiShield
 
 IkkiShield is an automated **dip-response policy engine** designed to monitor token market conditions and coordinate full treasury reinjection strategies during predefined drawdown events.
@@ -12,11 +16,11 @@ This repository focuses on **detection, policy definition, accounting, and commu
 
 IkkiShield operates as a modular service composed of the following layers:
 
-- Market data ingestion
-- Drawdown detection
-- Treasury accounting
-- Reinjection planning
-- Automated communication and reporting
+- Market data ingestion  
+- Drawdown detection  
+- Treasury accounting  
+- Reinjection planning  
+- Automated communication and reporting  
 
 The system is designed to be transparent, auditable, and deterministic, with clear separation between **policy logic** and **capital execution**.
 
